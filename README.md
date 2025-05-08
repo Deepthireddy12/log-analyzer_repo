@@ -5,7 +5,7 @@ This repository contains everything needed to fine-tune Mistral-7B on JSONL appl
 -------------------------------------
 
 ## Repository Structure
-log-analyzer-repo/
+log-analyzer_repo/
 ├── README.md
 ├── .gitignore
 ├── input_data/
@@ -14,7 +14,6 @@ log-analyzer-repo/
 │ ├── LLM_finetune.ipynb # fine-tune, merge, convert end-to-end, download
 │ ├── LLM_finetune.py
 │ ├── Videos
-    └── code # environment setup, run the code
     └── execution # execution on prompt
 
 ------------------------------------
