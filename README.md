@@ -67,12 +67,12 @@ ollama run  log-analyzer
 
 ## Input format in command prompt
 
-### Instruction:
+###Instruction:
 Analyze the following application logs to identify number of errors, order flow, and trace IDs for failures.
 
-### Input:
+###Input:
 
-### Response:
+###Response:
  
 Give some chunk of data from our jsonl file provided after ###Input:
 
