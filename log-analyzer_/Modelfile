@@ -1,0 +1,3 @@
+FROM mistral
+
+PARAMETER model-file=log-analyzer_.gguf
