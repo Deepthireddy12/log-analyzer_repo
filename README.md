@@ -61,7 +61,7 @@ mv log-analyzer.gguf ~/.ollama/models/log-analyzer/log-analyzer.gguf
 ollama create log-analyzer -f Modelfile
 ollama run  log-analyzer
 
-# I already have modelfile for the .gguf model placed in the "log-analyzer_" folder. Download the .gguf model from code execution
+## I already have modelfile for the .gguf model placed in the "log-analyzer_" folder. Download the .gguf model from code execution
 
 ------------------------------------------
 
